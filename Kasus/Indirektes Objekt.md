@@ -1,0 +1,4 @@
+- Dativobjekt.
+- Das indirekte Objekt empfängt die Handlung des Verbs indirekt.
+- Es steht im [[Dativ]].
+- Es beantwortet die Frage "Wem?" oder "Für wen?" in Bezug auf das Verb.

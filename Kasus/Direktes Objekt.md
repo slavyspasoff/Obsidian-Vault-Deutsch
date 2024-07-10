@@ -1,0 +1,4 @@
+- Akkusativobjekt.
+- Das direkte Objekt empfängt die Handlung des Verbs direkt.
+- Es steht im [[Akkusativ]].
+- Es beantwortet die Frage "Wen?" oder "Was?" in Bezug auf das Verb.

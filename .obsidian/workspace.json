@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "095c78e369979230",
+    "type": "split",
+    "children": [
+      {
+        "id": "81a3dbe1c1e44ade",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce6f35bf0d04e7ff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fcbcf6b9b51a9aab",
+    "type": "split",
+    "children": [
+      {
+        "id": "4343a30705db5aab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4c588d597672514",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ceaa9e5efec9f79f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#grammar",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a52bbda584f38471",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "057a08bae69a55a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "78ad47f4363b9828",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca43203236759f82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a087df8455f77f3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a9d3d2898b2aa1bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "98329e5b49dfc6ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e0490f2a3e90c66",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c2d49f97eff518d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "ce6f35bf0d04e7ff",
+  "lastOpenFiles": [
+    "Kasus/Dativ.md",
+    "Kasus/Beispiele.md",
+    "Artikel/Artikel.md",
+    "Kasus/Nominativ.md",
+    "Kasus/Subjekt.md",
+    "Kasus/Direktes Objekt.md",
+    "Kasus/Indirektes Objekt.md",
+    "Kasus/Genitiv.md",
+    "Kasus/Akkusativ.md",
+    "Kasus/Untitled.canvas",
+    "Fragesätze/Fragesätze.md",
+    "Untitled",
+    "Fragesätze",
+    "Wörterbuch/Nomen/Verwendung, die.md",
+    "Cloze.md",
+    "2024-07-10.md",
+    "Wörterbuch/Nomen/Licht, das.md",
+    "Wörterbuch/Nomen/Bedeutung, die.md",
+    "Kasus/Images/Kasus_Fragen.png",
+    "Excalidraw/Drawing 2024-07-09 16.31.30.excalidraw.md",
+    "Excalidraw",
+    "Wörterbuch/Nomen",
+    "Wörterbuch",
+    "Excalidraw/Drawing 2024-07-09 16.09.19.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-07 16.00.57.excalidraw.md",
+    "Kasus/Images",
+    "Kasus",
+    "Artikel",
+    "[Kasus_Fragen.png.md",
+    "Screenshot_20240707_151449.png",
+    "().md",
+    "Wortschatz.md",
+    "Untitled.canvas",
+    "Welcome.md"
+  ]
+}
