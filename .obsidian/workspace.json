@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kasus/Akkusativ.md",
+                "file": "Deklination/Genitiv.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#grammar",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kasus/Akkusativ.md",
+                "file": "Deklination/Genitiv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kasus/Akkusativ.md",
+                "file": "Deklination/Genitiv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kasus/Akkusativ.md"
+                "file": "Deklination/Genitiv.md"
               }
             }
           },
@@ -165,26 +165,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4c588d597672514",
+  "active": "339fd891b9d8371b",
   "lastOpenFiles": [
-    "Präpositionen",
-    "Kasus/Dativ.md",
-    "Kasus/Akkusativ.md",
-    "Kasus/Direktes Objekt.md",
+    "Deklination/Dativ.md",
+    "Deklination/Akkusativ.md",
+    "Deklination/Nominativ.md",
+    "Deklination/Genitiv.md",
+    "Artikel/Artikel.md",
     "Kasus/Nominativ.md",
+    "Kasus/Akkusativ.md",
     "Kasus/Genitiv.md",
+    "Kasus/Dativ.md",
+    "Pronomen/Nominativ.md",
+    "Konjukativ",
+    "Imperativ",
+    "Zeitformen",
+    "Pronomen/Verwendung.md",
+    "Präpositionen",
+    "Kasus/Direktes Objekt.md",
     "Kasus/Indirektes Objekt.md",
     "Wörterbuch/Verben/übereinstimmen.md",
     "Wörterbuch/Nomen/Verwendung, die.md",
     "Wörterbuch/Verben",
-    "Pronomen/Verwendung.md",
-    "Pronomen/Nominativ.md",
-    "Deklination/Nominativ.md",
     "Pronomen",
     "Kasus/Beispiele.md",
     "Wörterbuch/Nomen/Bedeutung, die.md",
     "Deklination",
-    "Artikel/Artikel.md",
     "Kasus/Subjekt.md",
     "Kasus/Untitled.canvas",
     "Fragesätze/Fragesätze.md",
@@ -196,16 +202,10 @@
     "Excalidraw/Drawing 2024-07-09 16.31.30.excalidraw.md",
     "Excalidraw",
     "Wörterbuch/Nomen",
-    "Wörterbuch",
     "Excalidraw/Drawing 2024-07-09 16.09.19.excalidraw.md",
     "Excalidraw/Drawing 2024-07-07 16.00.57.excalidraw.md",
-    "Kasus/Images",
-    "Kasus",
-    "Artikel",
     "[Kasus_Fragen.png.md",
     "Screenshot_20240707_151449.png",
-    "().md",
-    "Wortschatz.md",
     "Untitled.canvas"
   ]
 }

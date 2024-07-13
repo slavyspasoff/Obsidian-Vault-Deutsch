@@ -2,6 +2,6 @@
 |               | Maskuline | Feminine | Neutral | Plural |
 | ------------- | --------- | -------- | ------- | ------ |
 | [[Kasus/Nominativ]] | der       | die      | das     | die    |
-| [[Akkusativ]] | den       | die      | das     | die    |
-| [[Dativ]]     | dem       | der      | dem     | den    |
-| [[Genitiv]]   | des       | der      | des     | der    |
+| [[Kasus/Akkusativ]] | den       | die      | das     | die    |
+| [[Kasus/Dativ]]     | dem       | der      | dem     | den    |
+| [[Kasus/Genitiv]]   | des       | der      | des     | der    |

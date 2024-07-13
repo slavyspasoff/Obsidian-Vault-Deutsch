@@ -2,7 +2,7 @@
 
 Bei den Sätzen mit zwei Objekte:
 - [[Direktes Objekt]] immer im Akkusativ
-- [[Direktes Objekt]] bekommt meist das [[Indirektes Objekt]] ([[Dativ]])
+- [[Direktes Objekt]] bekommt meist das [[Indirektes Objekt]] ([[Kasus/Dativ]])
 
 |          | Bestimmtes   | Unbestimmtes | Negationswort  |
 | -------- | ------------ | ------------ | -------------- |
@@ -18,7 +18,7 @@ Bei den Sätzen mit zwei Objekte:
 - gegen
 - ohne
 - um
-## Präpositionen auch mit Akkusativ
+## Präpositionen mit Akkusativ (Richtung) & [[Kasus/Dativ]] (Position) 
 
 - an
 - auf
@@ -29,3 +29,8 @@ Bei den Sätzen mit zwei Objekte:
 - über
 - vor
 - zwischen
+
+## Verben mit den Vorsilben
+- be-
+- ver-
+- zer-

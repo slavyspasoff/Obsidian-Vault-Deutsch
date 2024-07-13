@@ -23,7 +23,7 @@
 - seit
 - von
 - zu
-## Präpositionen auch mit Dativ
+## Präpositionen mit [[Kasus/Akkusativ]] (Richtung) & Dativ (Position) 
 
 - an
 - auf

@@ -29,14 +29,14 @@
 - Beispiele: des Aff*en*, des Student*en*, des Patient*en*
 
 ## Präpositionen mit Genitiv
-- an Stelle
+- anstelle / an Stelle
+- anstatt / statt
 - aufgrund
+- infolge
+- außerhalb
+- innerhalb
+- laut
+- statt
 - trotz
 - wegen
 - während
-- außerhalb
-- innerhalb
-- unterhalb
-- oberhalb
-- nördlich
-- südlich
