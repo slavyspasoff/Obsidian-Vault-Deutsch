@@ -25,7 +25,7 @@
 - Beispiele: des Ergebnis*ses*, des Geheimnis*ses*, des Ereignis*ses*
 
 ### "-en"
-- Nomen, die auf *-e, -ent* enden
+- Nomen, die auf *-e, -ent, -ant, -ist, -oge, -at* enden
 - Beispiele: des Aff*en*, des Student*en*, des Patient*en*
 
 ## Präpositionen mit Genitiv

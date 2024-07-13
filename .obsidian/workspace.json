@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "18e4cc86470f03f4",
+        "id": "c26fd16e43b2db09",
         "type": "tabs",
         "children": [
           {
-            "id": "339fd891b9d8371b",
+            "id": "f53ef83f9cd5f01a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deklination/Genitiv.md",
+                "file": "Kasus/Genitiv.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deklination/Genitiv.md",
+                "file": "Kasus/Genitiv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deklination/Genitiv.md",
+                "file": "Kasus/Genitiv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deklination/Genitiv.md"
+                "file": "Kasus/Genitiv.md"
               }
             }
           },
@@ -165,35 +165,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "339fd891b9d8371b",
+  "active": "f53ef83f9cd5f01a",
   "lastOpenFiles": [
-    "Deklination/Dativ.md",
-    "Deklination/Akkusativ.md",
-    "Deklination/Nominativ.md",
-    "Deklination/Genitiv.md",
     "Artikel/Artikel.md",
-    "Kasus/Nominativ.md",
-    "Kasus/Akkusativ.md",
     "Kasus/Genitiv.md",
     "Kasus/Dativ.md",
+    "Deklination/Nominativ.md",
+    "Deklination/Genitiv.md",
+    "Deklination/Dativ.md",
+    "Deklination/Akkusativ.md",
+    "Deklination/n-Deklination.md",
+    "Kasus/Direktes Objekt.md",
+    "Kasus/Beispiele.md",
+    "Kasus/Akkusativ.md",
+    "Fragesätze/Fragesätze.md",
+    "Kasus/Nominativ.md",
+    "Kasus/Subjekt.md",
+    "Pronomen/Verwendung.md",
     "Pronomen/Nominativ.md",
+    "Wörterbuch/Verben/winken.md",
+    "Kasus/Indirektes Objekt.md",
+    "Wörterbuch/Nomen/Verwendung, die.md",
+    "Wörterbuch/Nomen/Bedeutung, die.md",
+    "Wörterbuch/Verben/übereinstimmen.md",
+    "Wörterbuch/Adjektiv/sächlich.md",
+    "Wörterbuch/Adjektiv",
     "Konjukativ",
     "Imperativ",
     "Zeitformen",
-    "Pronomen/Verwendung.md",
     "Präpositionen",
-    "Kasus/Direktes Objekt.md",
-    "Kasus/Indirektes Objekt.md",
-    "Wörterbuch/Verben/übereinstimmen.md",
-    "Wörterbuch/Nomen/Verwendung, die.md",
     "Wörterbuch/Verben",
     "Pronomen",
-    "Kasus/Beispiele.md",
-    "Wörterbuch/Nomen/Bedeutung, die.md",
     "Deklination",
-    "Kasus/Subjekt.md",
     "Kasus/Untitled.canvas",
-    "Fragesätze/Fragesätze.md",
     "Fragesätze",
     "Cloze.md",
     "2024-07-10.md",
@@ -201,10 +205,6 @@
     "Kasus/Images/Kasus_Fragen.png",
     "Excalidraw/Drawing 2024-07-09 16.31.30.excalidraw.md",
     "Excalidraw",
-    "Wörterbuch/Nomen",
-    "Excalidraw/Drawing 2024-07-09 16.09.19.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-07 16.00.57.excalidraw.md",
-    "[Kasus_Fragen.png.md",
     "Screenshot_20240707_151449.png",
     "Untitled.canvas"
   ]

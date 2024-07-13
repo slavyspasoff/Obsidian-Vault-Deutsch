@@ -1,5 +1,7 @@
 {
   "cssTheme": "Catppuccin",
   "interfaceFontFamily": "",
-  "theme": "system"
+  "theme": "system",
+  "baseFontSize": 16,
+  "textFontFamily": ""
 }
