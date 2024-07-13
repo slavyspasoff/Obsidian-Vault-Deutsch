@@ -1,4 +1,4 @@
 - Das Subjekt führt die Handlung des Verbs aus oder befindet sich in einem Zustand.
-- Es steht im [[Nominativ]].
+- Es steht im [[Kasus/Nominativ]].
 - Es beantwortet die Frage "Wer?" oder "Was?" in Bezug auf das Verb.
 - Das Subjekt und das Verb müssen in Person und Zahl übereinstimmen.

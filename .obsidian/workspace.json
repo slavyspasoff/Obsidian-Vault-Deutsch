@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "81a3dbe1c1e44ade",
+        "id": "9fc31ef3eb638ce9",
         "type": "tabs",
         "children": [
           {
-            "id": "ce6f35bf0d04e7ff",
+            "id": "2416386d08612fee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kasus/Dativ.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kasus/Dativ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kasus/Dativ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kasus/Dativ.md"
+              }
             }
           },
           {
@@ -142,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,26 +165,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce6f35bf0d04e7ff",
+  "active": "2416386d08612fee",
   "lastOpenFiles": [
+    "Wörterbuch/Verben/übereinstimmen.md",
+    "Wörterbuch/Nomen/Verwendung, die.md",
     "Kasus/Dativ.md",
-    "Kasus/Beispiele.md",
-    "Artikel/Artikel.md",
-    "Kasus/Nominativ.md",
-    "Kasus/Subjekt.md",
-    "Kasus/Direktes Objekt.md",
-    "Kasus/Indirektes Objekt.md",
+    "Wörterbuch/Verben",
     "Kasus/Genitiv.md",
+    "Pronomen/Verwendung.md",
+    "Pronomen/Nominativ.md",
+    "Kasus/Direktes Objekt.md",
+    "Deklination/Nominativ.md",
+    "Pronomen",
+    "Kasus/Nominativ.md",
+    "Kasus/Beispiele.md",
+    "Kasus/Indirektes Objekt.md",
+    "Wörterbuch/Nomen/Bedeutung, die.md",
+    "Deklination",
+    "Artikel/Artikel.md",
+    "Kasus/Subjekt.md",
     "Kasus/Akkusativ.md",
     "Kasus/Untitled.canvas",
     "Fragesätze/Fragesätze.md",
-    "Untitled",
     "Fragesätze",
-    "Wörterbuch/Nomen/Verwendung, die.md",
     "Cloze.md",
     "2024-07-10.md",
     "Wörterbuch/Nomen/Licht, das.md",
-    "Wörterbuch/Nomen/Bedeutung, die.md",
     "Kasus/Images/Kasus_Fragen.png",
     "Excalidraw/Drawing 2024-07-09 16.31.30.excalidraw.md",
     "Excalidraw",
