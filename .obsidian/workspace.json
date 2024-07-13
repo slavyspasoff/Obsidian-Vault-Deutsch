@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kasus/Dativ.md",
+                "file": "Kasus/Akkusativ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kasus/Dativ.md",
+                "file": "Kasus/Akkusativ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kasus/Dativ.md",
+                "file": "Kasus/Akkusativ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kasus/Dativ.md"
+                "file": "Kasus/Akkusativ.md"
               }
             }
           },
@@ -167,9 +167,9 @@
   },
   "active": "2416386d08612fee",
   "lastOpenFiles": [
+    "Kasus/Dativ.md",
     "Wörterbuch/Verben/übereinstimmen.md",
     "Wörterbuch/Nomen/Verwendung, die.md",
-    "Kasus/Dativ.md",
     "Wörterbuch/Verben",
     "Kasus/Genitiv.md",
     "Pronomen/Verwendung.md",
