@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9fc31ef3eb638ce9",
+        "id": "18e4cc86470f03f4",
         "type": "tabs",
         "children": [
           {
-            "id": "2416386d08612fee",
+            "id": "339fd891b9d8371b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -165,26 +165,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2416386d08612fee",
+  "active": "f4c588d597672514",
   "lastOpenFiles": [
+    "Präpositionen",
     "Kasus/Dativ.md",
+    "Kasus/Akkusativ.md",
+    "Kasus/Direktes Objekt.md",
+    "Kasus/Nominativ.md",
+    "Kasus/Genitiv.md",
+    "Kasus/Indirektes Objekt.md",
     "Wörterbuch/Verben/übereinstimmen.md",
     "Wörterbuch/Nomen/Verwendung, die.md",
     "Wörterbuch/Verben",
-    "Kasus/Genitiv.md",
     "Pronomen/Verwendung.md",
     "Pronomen/Nominativ.md",
-    "Kasus/Direktes Objekt.md",
     "Deklination/Nominativ.md",
     "Pronomen",
-    "Kasus/Nominativ.md",
     "Kasus/Beispiele.md",
-    "Kasus/Indirektes Objekt.md",
     "Wörterbuch/Nomen/Bedeutung, die.md",
     "Deklination",
     "Artikel/Artikel.md",
     "Kasus/Subjekt.md",
-    "Kasus/Akkusativ.md",
     "Kasus/Untitled.canvas",
     "Fragesätze/Fragesätze.md",
     "Fragesätze",
@@ -205,7 +206,6 @@
     "Screenshot_20240707_151449.png",
     "().md",
     "Wortschatz.md",
-    "Untitled.canvas",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }
