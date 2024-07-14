@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zeitformen/Perfekt.md",
-                "mode": "source",
+                "file": "Zeitformen/Plusquamperfekt.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeitformen/Perfekt.md",
+                "file": "Zeitformen/Plusquamperfekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zeitformen/Perfekt.md",
+                "file": "Zeitformen/Plusquamperfekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zeitformen/Perfekt.md"
+                "file": "Zeitformen/Plusquamperfekt.md"
               }
             }
           },
@@ -167,9 +167,11 @@
   },
   "active": "51f2c8d7412fc52f",
   "lastOpenFiles": [
-    "Zeitformen/Präteritum.md",
     "Zeitformen/Perfekt.md",
+    "Zeitformen/Futur II.md",
+    "Zeitformen/Plusquamperfekt.md",
     "Zeitformen/Präsens.md",
+    "Zeitformen/Präteritum.md",
     "Wörterbuch/Nomen/Verwendung, die.md",
     "Wörterbuch/Nomen/Zutat, die.md",
     "Deklination/Akkusativ.md",
@@ -177,8 +179,6 @@
     "Kasus/Akkusativ.md",
     "Wörterbuch/Verben/geschehen.md",
     "Wörterbuch/Verben/übereinstimmen.md",
-    "Zeitformen/Plusquamperfekt.md",
-    "Zeitformen/Futur II.md",
     "Untitled.md",
     "Kasus/Beispiele.md",
     "Pronomen/Verwendung.md",
