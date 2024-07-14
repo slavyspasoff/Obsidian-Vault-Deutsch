@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zeitformen/Präteritum.md",
+                "file": "Zeitformen/Perfekt.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeitformen/Präteritum.md",
+                "file": "Zeitformen/Perfekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zeitformen/Präteritum.md",
+                "file": "Zeitformen/Perfekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zeitformen/Präteritum.md"
+                "file": "Zeitformen/Perfekt.md"
               }
             }
           },
@@ -167,17 +167,17 @@
   },
   "active": "51f2c8d7412fc52f",
   "lastOpenFiles": [
+    "Zeitformen/Präteritum.md",
+    "Zeitformen/Perfekt.md",
     "Zeitformen/Präsens.md",
     "Wörterbuch/Nomen/Verwendung, die.md",
     "Wörterbuch/Nomen/Zutat, die.md",
-    "Zeitformen/Präteritum.md",
     "Deklination/Akkusativ.md",
     "Kasus/Direktes Objekt.md",
     "Kasus/Akkusativ.md",
     "Wörterbuch/Verben/geschehen.md",
     "Wörterbuch/Verben/übereinstimmen.md",
     "Zeitformen/Plusquamperfekt.md",
-    "Zeitformen/Perfekt.md",
     "Zeitformen/Futur II.md",
     "Untitled.md",
     "Kasus/Beispiele.md",
