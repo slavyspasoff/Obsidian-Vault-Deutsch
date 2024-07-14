@@ -1,9 +1,9 @@
 [
-  "obsidian-dictionary-plugin",
   "calendar",
-  "obsidian-plugin-update-tracker",
+  "obsidian-dictionary-plugin",
   "obsidian-excalidraw-plugin",
-  "obsidian-spaced-repetition",
   "obsidian-languagetool-plugin",
-  "settings-search"
+  "obsidian-plugin-update-tracker",
+  "settings-search",
+  "obsidian-spaced-repetition"
 ]
