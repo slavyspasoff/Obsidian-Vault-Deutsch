@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zeitformen/Präsens.md",
+                "file": "Zeitformen/Präteritum.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeitformen/Präsens.md",
+                "file": "Zeitformen/Präteritum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zeitformen/Präsens.md",
+                "file": "Zeitformen/Präteritum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zeitformen/Präsens.md"
+                "file": "Zeitformen/Präteritum.md"
               }
             }
           },
@@ -167,13 +167,15 @@
   },
   "active": "51f2c8d7412fc52f",
   "lastOpenFiles": [
+    "Zeitformen/Präsens.md",
+    "Wörterbuch/Nomen/Verwendung, die.md",
+    "Wörterbuch/Nomen/Zutat, die.md",
     "Zeitformen/Präteritum.md",
     "Deklination/Akkusativ.md",
     "Kasus/Direktes Objekt.md",
     "Kasus/Akkusativ.md",
     "Wörterbuch/Verben/geschehen.md",
     "Wörterbuch/Verben/übereinstimmen.md",
-    "Zeitformen/Präsens.md",
     "Zeitformen/Plusquamperfekt.md",
     "Zeitformen/Perfekt.md",
     "Zeitformen/Futur II.md",
@@ -188,11 +190,9 @@
     "Wörterbuch/Verben/winken.md",
     "Wörterbuch/Nomen/Silbe, die.md",
     "Wörterbuch/Nomen/Bedeutung, die.md",
-    "Wörterbuch/Nomen/Verwendung, die.md",
     "Zeitformen/Futur I.md",
     "Kasus/Genitiv.md",
     "Artikel/Artikel.md",
-    "Kasus/Dativ.md",
     "Wörterbuch/Adjektiv",
     "Konjukativ",
     "Imperativ",
