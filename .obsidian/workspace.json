@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zeitformen/Plusquamperfekt.md",
-                "mode": "preview",
+                "file": "Zeitformen/Futur II.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bf8ce739b7b9d2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zeitformen/Partizip II.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zeitformen/Plusquamperfekt.md",
+                "file": "Zeitformen/Partizip II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zeitformen/Plusquamperfekt.md",
+                "file": "Zeitformen/Partizip II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zeitformen/Plusquamperfekt.md"
+                "file": "Zeitformen/Partizip II.md"
               }
             }
           },
@@ -165,10 +178,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51f2c8d7412fc52f",
+  "active": "f4c588d597672514",
   "lastOpenFiles": [
-    "Zeitformen/Perfekt.md",
     "Zeitformen/Futur II.md",
+    "Zeitformen/Partizip II.md",
+    "Zeitformen/Futur I.md",
+    "Zeitformen/Perfekt.md",
     "Zeitformen/Plusquamperfekt.md",
     "Zeitformen/Präsens.md",
     "Zeitformen/Präteritum.md",
@@ -179,7 +194,6 @@
     "Kasus/Akkusativ.md",
     "Wörterbuch/Verben/geschehen.md",
     "Wörterbuch/Verben/übereinstimmen.md",
-    "Untitled.md",
     "Kasus/Beispiele.md",
     "Pronomen/Verwendung.md",
     "Pronomen/Nominativ.md",
@@ -190,7 +204,6 @@
     "Wörterbuch/Verben/winken.md",
     "Wörterbuch/Nomen/Silbe, die.md",
     "Wörterbuch/Nomen/Bedeutung, die.md",
-    "Zeitformen/Futur I.md",
     "Kasus/Genitiv.md",
     "Artikel/Artikel.md",
     "Wörterbuch/Adjektiv",

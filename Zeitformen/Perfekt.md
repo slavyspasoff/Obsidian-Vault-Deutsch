@@ -2,7 +2,7 @@
 
 ## Bildung
 
-> Hilfsverb + Verb im Partizip II
+*Hilfsverb* + *Verb im Partizip II*
 ### Hilfsverb
 |           | Sein   | Haben   |
 | --------- | ------ | ------- |
